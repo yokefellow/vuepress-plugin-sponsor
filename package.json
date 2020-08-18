@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-plugin-sponsor",
+  "version": "1.0.0",
+  "description": "Sponsor plugin for vuepress",
+  "keywords": [
+    "sponsor",
+    "vuepress"
+  ],
+  "homepage": "https://yokefellow.github.io",
+  "bugs": {
+    "url": "https://github.com/yokefellow/vuepress-plugin-sponsor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yokefellow/vuepress-plugin-sponsor.git"
+  },
+  "license": "MIT",
+  "author": "yokefellow <yuan1241900094@gmail.com>",
+  "main": "index.js",
+  "dependencies": {}
+}
